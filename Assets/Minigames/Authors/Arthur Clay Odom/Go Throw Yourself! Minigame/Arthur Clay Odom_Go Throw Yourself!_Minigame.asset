@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c684674b01f71dc4a85b85a765decfac, type: 3}
+  m_Name: Arthur Clay Odom_Go Throw Yourself!_Minigame
+  m_EditorClassIdentifier: 
+  _name: Go Throw Yourself!
+  _description: Throw yourself away . . . from danger!
+  _author: Arthur Clay Odom
+  _scenePath: Assets/Minigames/Authors/Arthur Clay Odom/Go Throw Yourself! Minigame/Go
+    Throw Yourself!_scene.unity
+  _sceneName: Go Throw Yourself!_scene
+  _timeLimit: 30
