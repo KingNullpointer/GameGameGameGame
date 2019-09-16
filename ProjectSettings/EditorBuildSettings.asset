@@ -29,4 +29,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Minigames/Authors/Adrian Brody/Cool Game/adrian_coolgame_scene.unity
     guid: 7fad500d26558424aa01dd88aab355ae
+  - enabled: 1
+    path: Assets/Minigames/Authors/Arthur Clay Odom/Go Throw Yourself! Minigame/Go
+      Throw Yourself!_scene.unity
+    guid: 177aeeb96995b81448fca86bfc1a7dd0
   m_configObjects: {}
